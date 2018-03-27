@@ -1,0 +1,8 @@
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.deps.json
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.runtimeconfig.json
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.runtimeconfig.dev.json
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.dll
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.csprojResolveAssemblyReference.cache
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.AssemblyInfoInputs.cache
+C:\Users\falam.DWH\source\repos\TestDotNetCore\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.AssemblyInfo.cs
